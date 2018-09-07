@@ -18,5 +18,5 @@ Pros of this script:
 * Supports IE 9+
 
 Cons of this script:
-*Needs a flat files architecture for html files (if using build.js)
-*Non-data-driven (unlike ReactJS or VueJS, there is no state)
+* Needs a flat file architecture for html files (if using build.js)
+* Non-data-driven (unlike ReactJS or VueJS, there is no state)
