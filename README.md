@@ -1,5 +1,5 @@
 # SPA-ONE
-The spa-one.js script is a vanilla JS script that allows for injecting partials into your html pages, while also supporting loading of individual pages by direct URLS. Great for SEO purposes.
+The spa-one.js script is a vanilla JS script that allows for injecting partials into your html pages, while also supporting loading of individual pages by direct URLS. Great for SEO purposes, and is most useful for small projects of 10 pages or less. Not useful at all for larger projects or data-driven websites!
 
 Rules for usage are as follows:
 * Your nav links need the class 'nav-link'
