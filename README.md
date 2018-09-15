@@ -7,7 +7,7 @@ Rules for usage are as follows:
 * The current loaded page must have the class "active" in it's nav link
 * Pages may be preloaded by appended 'preload' to the class of the nav link
  
-For all the above, see the example folder for usage
+For all the above, see the example folder for usage.
 See also the tool in the example folder called build.js, which uses the base.html to make everything outside of the app div agree.
 Build.js takes the contents of the app div(in this case) index.html, about.html and contact.html files, and dynamically inserts them into the frame provided for by the base.html file, overwriting the original files. (a backup folder is created in case anything goes wrong)
 
